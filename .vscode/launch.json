@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "HoraSistema",
+      "request": "launch",
+      "mainClass": "HoraSistema",
+      "projectName": "AulasProjetosJava_cd7a04b7"
+    },
+    {
+      "type": "java",
+      "name": "Executar JavaFX",
+      "request": "launch",
+      "mainClass": "Main",
+      "vmArgs": "--module-path C:/Users/priga/Downloads/openjfx-21.0.7_windows-x64_bin-sdk/javafx-sdk-21.0.7/lib --add-modules javafx.controls"
+    }
+  ]
+}
