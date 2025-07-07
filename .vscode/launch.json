@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "IdiomaSistema",
+      "request": "launch",
+      "mainClass": "IdiomaSistema",
+      "projectName": "AulasProjetosJava_cd7a04b7"
+    },
+    {
+      "type": "java",
       "name": "HoraSistema",
       "request": "launch",
       "mainClass": "HoraSistema",
